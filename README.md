@@ -1,1 +1,2 @@
-# This is the repo that i will put all my java codes of Head First Java book!
+# Head First Java 2nd Edition 
+This is the repo where i will put all my java codes of Head First Java book!
