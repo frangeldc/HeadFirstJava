@@ -7,8 +7,9 @@ class HeapQuiz {
 	public static void main(String [] args) {
 		
 		int x = 0;
+		int S = 0;	// Declared S
 		HeapQuiz[] hq = new HeapQuiz[S];	// can't compile because S is not declared
-		
+
 		while (x < 3) {
 			hq[x] = new HeapQuiz();
 			hq[x].id = x;
