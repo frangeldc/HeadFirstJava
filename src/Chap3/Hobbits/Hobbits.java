@@ -1,4 +1,4 @@
-package Chap3.Books;
+package Chap3.Hobbits;
 
 class Hobbits {
 	String name;
